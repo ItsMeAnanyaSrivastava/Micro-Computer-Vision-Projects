@@ -13,7 +13,6 @@ A short README for `invisible.py`. This script implements a simple "invisibility
 - Python 3.7+
 - OpenCV (cv2)
 - NumPy
-- (optional) argparse
 
 Install:
 ```
