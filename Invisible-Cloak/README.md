@@ -14,7 +14,7 @@ A short README for `invisible.py`. This script implements a simple "invisibility
 - OpenCV (cv2)
 - NumPy
 
-Install:
+## Installation
 ```
 pip install opencv-python numpy
 ```
